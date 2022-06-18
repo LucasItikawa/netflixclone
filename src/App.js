@@ -57,7 +57,7 @@ export default () =>{
                 ))}
             </section>
             <footer>
-                Feito por Lucas Hiroshi Itikawa, curso da B7Web <br/>
+                Feito por Lucas Hiroshi Itikawa<br/>
                 Direitos de imagem para Netflix<br/>
                 Dados pegos no site Themoviedb.org
             </footer>
